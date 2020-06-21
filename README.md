@@ -47,6 +47,15 @@ cd my-project
 wasm-pack build
 ```
 
+
+### Running locall
+
+```
+cd www/
+npm install
+npm run start
+```
+
 ### 🔬 Test in Headless Browsers with `wasm-pack test`
 
 ```
